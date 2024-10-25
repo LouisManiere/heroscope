@@ -10,3 +10,19 @@ def get_fortune():
         "Un ancien ennemi refait surface, et cette fois-ci, il est plus puissant que jamais. Vous devrez faire preuve de courage et de détermination pour le vaincre. N'oubliez pas que la véritable force réside dans votre cœur, pas dans vos pouvoirs",
         "Une nouvelle aventure vous attend, et elle pourrait vous emmener aux confins de l'univers. Restez ouvert d'esprit et prêt à affronter l'inconnu. Votre curiosité et votre soif de justice vous guideront vers la victoire"
     ])
+
+def zodiaque():
+    return random.choice([
+        "Bélier",
+        "Taureau",
+        "Gémeaux",
+        "Cancer",
+        "Lion",
+        "Vierge",
+        "Balance",
+        "Scorpion",
+        "Sagittaire",
+        "Capricorne",
+        "Verseau",
+        "Poissons"
+    ])
