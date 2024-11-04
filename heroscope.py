@@ -26,3 +26,5 @@ def zodiaque():
         "Verseau",
         "Poissons"
     ])
+
+test
