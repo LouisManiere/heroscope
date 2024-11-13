@@ -15,7 +15,7 @@ def zodiaque():
     return random.choice([
         "Bélier",
         "Taureau",
-        "Gémeaux",
+        "coucou",
         "Cancer",
         "Lion",
         "Vierge",
